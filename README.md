@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0301-remove-invalid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0301-remove-invalid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
