@@ -61,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
