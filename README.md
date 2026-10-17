@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0015-3sum) |
+| [0327-count-of-range-sum](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0327-count-of-range-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -65,4 +66,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Binary Search
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0327-count-of-range-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0327-count-of-range-sum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0327-count-of-range-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0327-count-of-range-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0327-count-of-range-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0327-count-of-range-sum) |
+## Treap
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
