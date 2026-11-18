@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0016-3sum-closest) |
+| [0209-minimum-size-subarray-sum](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0327-count-of-range-sum](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0327-count-of-range-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0977-squares-of-a-sorted-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0327-count-of-range-sum](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0327-count-of-range-sum) |
 ## Divide and Conquer
 |  |
@@ -101,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0327-count-of-range-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
