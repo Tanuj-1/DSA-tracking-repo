@@ -44,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0977-squares-of-a-sorted-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,8 +112,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0209-minimum-size-subarray-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0209-minimum-size-subarray-sum) |
+## Math
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
