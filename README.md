@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0006-zigzag-conversion) |
+| [0076-minimum-window-substring](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0076-minimum-window-substring) |
 | [0301-remove-invalid-parentheses](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0301-remove-invalid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0076-minimum-window-substring) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Bit Manipulation
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
