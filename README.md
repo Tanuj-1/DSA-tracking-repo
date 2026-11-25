@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3934-smallest-unique-subarray](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3934-smallest-unique-subarray) |
 ## Enumeration
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0076-minimum-window-substring) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3934-smallest-unique-subarray](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3934-smallest-unique-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0327-count-of-range-sum](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0327-count-of-range-sum) |
+| [3934-smallest-unique-subarray](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -125,4 +128,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
