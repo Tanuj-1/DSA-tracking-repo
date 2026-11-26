@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3360-stone-removal-game](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3934-smallest-unique-subarray) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
