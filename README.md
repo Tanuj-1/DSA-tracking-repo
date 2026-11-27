@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Array
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3411-maximum-subarray-with-equal-products](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3934-smallest-unique-subarray](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3360-stone-removal-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3946-maximum-number-of-items-from-sale-i) |
 <!---LeetCode Topics End-->
