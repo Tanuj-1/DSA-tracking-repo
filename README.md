@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Array
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3934-smallest-unique-subarray](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0016-3sum-closest) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/0977-squares-of-a-sorted-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3946-maximum-number-of-items-from-sale-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Tanuj-1/DSA-tracking-repo/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 <!---LeetCode Topics End-->
